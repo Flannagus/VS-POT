@@ -1,0 +1,23 @@
+{
+    "song": {
+        "player2": "pot",
+        "player1": "bf",
+        "stage": "stage",
+        "gfVersion": "gf",
+        "speed": 1,
+        "needsVoices": false,
+        "sectionLengths": [],
+        "song": "crackle",
+        "notes": [],
+        "bpm": 100,
+        "sections": 0,
+        "validScore": true,
+        "noteStyle": "normal",
+        "hasVideo": false,
+        "videoPath": "",
+        "hasEpilogueVideo": false,
+        "epilogueVideoPath": "",
+        "hasDialogueChat": false,
+        "hasEpilogueChat": false
+    }
+}
