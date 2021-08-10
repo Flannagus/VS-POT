@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="PotAssets.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="potdownanim0000" x="0" y="0" width="501" height="712"/>
+	<SubTexture name="potdownanim0001" x="0" y="0" width="501" height="712"/>
+	<SubTexture name="potdownanim0002" x="501" y="0" width="501" height="712"/>
+	<SubTexture name="potdownanim0003" x="501" y="0" width="501" height="712"/>
+	<SubTexture name="potdownanim0004" x="501" y="0" width="501" height="712"/>
+	<SubTexture name="potdownanim0005" x="501" y="0" width="501" height="712"/>
+	<SubTexture name="potdownanim0006" x="501" y="0" width="501" height="712"/>
+	<SubTexture name="potdownanim0007" x="501" y="0" width="501" height="712"/>
+	<SubTexture name="potdownanim0008" x="501" y="0" width="501" height="712"/>
+	<SubTexture name="potdownanim0009" x="501" y="0" width="501" height="712"/>
+	<SubTexture name="potidleanim0000" x="1002" y="0" width="501" height="712"/>
+	<SubTexture name="potidleanim0001" x="1503" y="0" width="501" height="712"/>
+	<SubTexture name="potidleanim0002" x="2004" y="0" width="501" height="712"/>
+	<SubTexture name="potidleanim0003" x="2505" y="0" width="501" height="712"/>
+	<SubTexture name="potidleanim0004" x="3006" y="0" width="501" height="712"/>
+	<SubTexture name="potidleanim0005" x="3507" y="0" width="501" height="712"/>
+	<SubTexture name="potidleanim0006" x="0" y="712" width="501" height="712"/>
+	<SubTexture name="potidleanim0007" x="501" y="712" width="501" height="712"/>
+	<SubTexture name="potidleanim0008" x="1002" y="712" width="501" height="712"/>
+	<SubTexture name="potidleanim0009" x="1002" y="712" width="501" height="712"/>
+	<SubTexture name="potleftanim0000" x="1503" y="712" width="501" height="712"/>
+	<SubTexture name="potleftanim0001" x="1503" y="712" width="501" height="712"/>
+	<SubTexture name="potleftanim0002" x="2004" y="712" width="501" height="712"/>
+	<SubTexture name="potleftanim0003" x="2004" y="712" width="501" height="712"/>
+	<SubTexture name="potleftanim0004" x="2004" y="712" width="501" height="712"/>
+	<SubTexture name="potleftanim0005" x="2004" y="712" width="501" height="712"/>
+	<SubTexture name="potleftanim0006" x="2004" y="712" width="501" height="712"/>
+	<SubTexture name="potleftanim0007" x="2004" y="712" width="501" height="712"/>
+	<SubTexture name="potleftanim0008" x="2004" y="712" width="501" height="712"/>
+	<SubTexture name="potleftanim0009" x="2004" y="712" width="501" height="712"/>
+	<SubTexture name="potrightanim0000" x="2505" y="712" width="501" height="712"/>
+	<SubTexture name="potrightanim0001" x="2505" y="712" width="501" height="712"/>
+	<SubTexture name="potrightanim0002" x="3006" y="712" width="501" height="712"/>
+	<SubTexture name="potrightanim0003" x="3006" y="712" width="501" height="712"/>
+	<SubTexture name="potrightanim0004" x="3006" y="712" width="501" height="712"/>
+	<SubTexture name="potrightanim0005" x="3006" y="712" width="501" height="712"/>
+	<SubTexture name="potrightanim0006" x="3006" y="712" width="501" height="712"/>
+	<SubTexture name="potrightanim0007" x="3006" y="712" width="501" height="712"/>
+	<SubTexture name="potrightanim0008" x="3006" y="712" width="501" height="712"/>
+	<SubTexture name="potrightanim0009" x="3006" y="712" width="501" height="712"/>
+	<SubTexture name="potupanim0000" x="3507" y="712" width="501" height="712"/>
+	<SubTexture name="potupanim0001" x="3507" y="712" width="501" height="712"/>
+	<SubTexture name="potupanim0002" x="0" y="1424" width="501" height="712"/>
+	<SubTexture name="potupanim0003" x="0" y="1424" width="501" height="712"/>
+	<SubTexture name="potupanim0004" x="0" y="1424" width="501" height="712"/>
+	<SubTexture name="potupanim0005" x="0" y="1424" width="501" height="712"/>
+	<SubTexture name="potupanim0006" x="0" y="1424" width="501" height="712"/>
+	<SubTexture name="potupanim0007" x="0" y="1424" width="501" height="712"/>
+	<SubTexture name="potupanim0008" x="0" y="1424" width="501" height="712"/>
+	<SubTexture name="potupanim0009" x="0" y="1424" width="501" height="712"/>
+</TextureAtlas>
